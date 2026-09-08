@@ -15,7 +15,7 @@ proxies:
   servername: web-socket.tgdaosheng.ggff.net
   network: ws
   ws-opts:
-    path: /proxyip=bpb.yousef.isegaro.comfp=chrome
+    path: /
     headers:
       Host: web-socket.tgdaosheng.ggff.net
 proxy-groups:
