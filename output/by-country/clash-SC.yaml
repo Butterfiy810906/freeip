@@ -6,8 +6,8 @@ log-level: info
 proxies:
 - name: 🇸🇨 SC 01 - xiaohe
   type: vless
-  server: 172.64.154.8
-  port: 2095
+  server: 162.159.0.53
+  port: 2052
   uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   udp: true
   tls: false
@@ -20,7 +20,7 @@ proxies:
 - name: 🇸🇨 SC 02 - xiaohe
   type: vless
   server: 188.114.97.6
-  port: 2052
+  port: 2086
   uuid: 47fcef29-ab4e-4aa6-932b-d95a18f28a4e
   udp: true
   tls: false
